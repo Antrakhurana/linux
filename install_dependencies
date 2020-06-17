@@ -1,2 +1,2 @@
 #!/bin/bash
-udo apt-get apache2
+sudo apt-get apache2
